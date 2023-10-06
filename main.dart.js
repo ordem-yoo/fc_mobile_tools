@@ -40357,14 +40357,13 @@ try{k=A.dD(e,o)
 j=A.dD(d,o)
 i=A.dD(c,o)
 A.kb(A.h(k)+", "+A.h(j)+", "+A.h(i))
-if(J.d(k,0))++k
 if(k<0||k>29){h=!1
 A.kb(n)
 r=A.bS(n,o,o)
-throw A.e(r)}if(j<0||j>=$.ank[k-1]){g=!1
+throw A.e(r)}if(j<0||j>=$.ank[k]){g=!1
 A.kb(m)
 r=A.bS(m,o,o)
-throw A.e(r)}if(i<1||i>30){f=!1
+throw A.e(r)}if(i<1||i>30||i<=k){f=!1
 A.kb(l)
 r=A.bS(l,o,o)
 throw A.e(r)}}catch(q){s=A.ad(q)
