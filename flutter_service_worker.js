@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "abebc052a3cfdc74f7b8dd6c38fcddb7",
-"assets/AssetManifest.json": "7bf24c35cdbcf1363358f27a91e05e8a",
+const RESOURCES = {"assets/AssetManifest.bin": "9a56bbd9672d9990ea7603d37124b910",
+"assets/AssetManifest.json": "a6660e5da86b47d595c70bb60ba531ce",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "28db68a388b6a6ba82ca53d9397b8647",
-"assets/images/discordprofile.png": "8fe1b94b2b5cd3cb060dfab3e9c22411",
+"assets/images/discord.png": "8fe1b94b2b5cd3cb060dfab3e9c22411",
 "assets/images/fcmobile.png": "cc1393c25dbb53890f0445835d27e5ae",
 "assets/images/github.png": "4a16cf84e27c8620249fc0c0ad796b19",
 "assets/images/openchat.png": "a58837df75883730c16c2353b90391a7",
@@ -290,9 +290,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "abebc052a3cfdc74f7b8dd6c38fcddb7
 "icons/Icon-512.png": "37a4f795844714865ce6176ad934e70e",
 "icons/Icon-maskable-192.png": "e5141608ec74fa56d95c2a4eada197b3",
 "icons/Icon-maskable-512.png": "37a4f795844714865ce6176ad934e70e",
-"index.html": "86012faa580ff79fc16a7886c98ad220",
-"/": "86012faa580ff79fc16a7886c98ad220",
-"main.dart.js": "a0cce6681227f222c1b1d41bc9ec8df9",
+"index.html": "68a5529a7aaa0985281946c24ca665f2",
+"/": "68a5529a7aaa0985281946c24ca665f2",
+"main.dart.js": "c9aed5706aa6ba7db4f7b1b961fb305b",
 "manifest.json": "e385f8996399a89808b8578e295968ef",
 "version.json": "7763311243951798ea5e60d8ab2b593f"};
 // The application shell files that are downloaded before a service worker can

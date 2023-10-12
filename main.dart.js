@@ -42253,7 +42253,7 @@ r=$.u_
 r.toString
 return A.fT(A.b([o,A.bH(p,r*0.5,p)],q),B.aB,B.ao,B.ap)}}
 A.acg.prototype={
-$0(){A.tZ("https://ordem.notion.site/Welcome-to-FC-Mobile-081f26b097ee422d8ae384692e287d41?pvs=4")},
+$0(){A.tZ("https://fcmobiletools.notion.site/Welcome-to-FC-Mobile-7f5ffc9daae94bbb9d823a82b0d3e975?pvs=4")},
 $S:0}
 A.ns.prototype={
 am(){return new A.Om(B.j)}}
@@ -42277,7 +42277,7 @@ o=A.mT(n,n,new A.bb(new A.B(4294894848),p),n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 o=A.aoy(A.vZ("images/openchat.png",n,n,n),new A.add(),o)
 l=A.bH(n,l*0.04,n)
 p=A.mT(n,n,new A.bb(new A.B(4285696474),p),n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)
-return A.JP(B.l,A.a77(A.fT(A.b([new A.lM(n),s,r,q,o,l,A.aoy(A.vZ("images/discordprofile.png",n,n,n),new A.ade(),p)],t.p),B.aB,B.ao,B.ap)),m)}}
+return A.JP(B.l,A.a77(A.fT(A.b([new A.lM(n),s,r,q,o,l,A.aoy(A.vZ("images/discord.png",n,n,n),new A.ade(),p)],t.p),B.aB,B.ao,B.ap)),m)}}
 A.add.prototype={
 $0(){A.tZ("https://open.kakao.com/o/sMJDv4Lf")},
 $S:0}
