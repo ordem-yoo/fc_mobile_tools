@@ -4,20 +4,20 @@
             "eventnum": 0,
             "name": "FC Mobile Release",
             "date": "2023.9.29",
-			"bannerlink" : "", 
-			"notionlink": ""
+			"bannerlink" : "https://ordem-yoo.github.io/fc_mobile_tools/fcs8img/FC%20Mobile%20Release.png", 
+			"notionlink": "https://fcmobiletools.notion.site/FC-Mobile-release-8496915aac4342ba8f7ae2ddabd3c016?pvs=4"
 		}, {
             "eventnum": 1,
             "name": "Welcome to FC Mobile",
             "date": "2023.09.29 ~ 2023.10.25",
-			"bannerlink" : "", 
-			"notionlink": ""
+			"bannerlink" : "https://ordem-yoo.github.io/fc_mobile_tools/fcs8img/Welcome%20to%20FC%20Mobile.png", 
+			"notionlink": "https://fcmobiletools.notion.site/Welcome-to-FC-Mobile-7f5ffc9daae94bbb9d823a82b0d3e975?pvs=4"
         }, {
             "eventnum": 2,
             "name": "Icon Journey",
             "date": "2023.10.12 ~ 시즌 종료",
-			"bannerlink" : "", 
-			"notionlink": ""
+			"bannerlink" : "https://ordem-yoo.github.io/fc_mobile_tools/fcs8img/Icon%20Journey%20Zidane.png", 
+			"notionlink": "https://fcmobiletools.notion.site/Icon-Journey-3757a6fd438c442ca093576973c8ae16?pvs=4"
         }, 
 
     ]
