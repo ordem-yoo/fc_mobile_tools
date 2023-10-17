@@ -51,5 +51,13 @@
 
 **Ver 1.2.1**
 - notion 링크 수정
+
+**Ver 1.2.2**
+- 코드 수정
+
+**Ver 1.3.0**
+- 이벤트 게시판 수정
+- 오버롤 계산기 업데이트
+
 <br><br>
-<!-- <img align= "right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fordem-yoo.github.io%2Ffc_mobile_tools%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> -->
+<img align= "right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fordem-yoo.github.io%2Ffc_mobile_tools%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
