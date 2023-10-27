@@ -15,10 +15,15 @@
             "bannerlink": "Icon%20Journey%20Zidane.png",
             "notionlink": "Icon-Journey-3757a6fd438c442ca093576973c8ae16?pvs=4"
         }, {
-            "name": "Conmebol Libertadores 이벤트",
+            "name": "Conmebol Libertadores",
             "date": "2023.10.12 ~ 2023.11.09",
             "bannerlink": "Conmebol%20Libertadores%20event.png",
             "notionlink": "Conmebol-Libertadores-25b732e311b9427dae82600fe05ecac8?pvs=4"
+        }, {
+            "name": "UEFA Champions League",
+            "date": "2023.10.26 ~ 2023.11.23",
+            "bannerlink": "UEFA%20Champions%20League.png",
+            "notionlink": "UEFA-Champions-League-5090ee8860094bd2a0f8e4403e0f6b3f?pvs=4"
         }
     ]
 }
