@@ -24,6 +24,37 @@
             "date": "2023.10.26 ~ 2023.11.23",
             "bannerlink": "UEFA%20Champions%20League.png",
             "notionlink": "UEFA-Champions-League-5090ee8860094bd2a0f8e4403e0f6b3f?pvs=4"
+        }, {
+            "name": "Day of the Dead",
+            "date": "2023.10.31 ~ 2023.11.10",
+            "bannerlink": "Day%20of%20the%20Dead.png",
+            "notionlink": "Day-of-the-Dead-9cfd96a38ed6497899084c90cdddb9c8?pvs=4"
+			
+        }, {
+            "name": "Mystery Signings",
+            "date": "2023.11.02 ~ ",
+            "bannerlink": "Mystery%20Signings.png",
+            "notionlink": "Mystery-Signings-f74b43127db645658557471585061ca2?pvs=4"
+        }, {
+            "name": "Rulebreakers",
+            "date": "2023.11.16 ~ 2023.11.30",
+            "bannerlink": "Rulebreakers.png",
+            "notionlink": "Rulebreakers-6a9bd9e98eb24791b118111ee85dfb3c?pvs=4"
+        }, {
+            "name": "Rivals",
+            "date": "2023.11.23 ~ 2023.12.21",
+            "bannerlink": "Rivals.png",
+            "notionlink": "Rivals-5709b1df98604a998ed8fcfcc2ee2fba?pvs=4"
+        }, {
+            "name": "Captains",
+            "date": "2023.12.14 ~ 2023.12.28",
+            "bannerlink": "Captains.png",
+            "notionlink": "Captains-93308c2eccc3486d87b785a4396d3f9b?pvs=4"
+        }, {
+            "name": "Winter Wildcards",
+            "date": "2023.12.21 ~ 2024.01.25",
+            "bannerlink": "Winter%20Wildcards",
+            "notionlink": "Winter-Wildcards-5b29e1165b9147f7b77c32f5b3433bc3?pvs=4"
         }
     ]
 }
